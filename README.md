@@ -2,6 +2,9 @@
 
 I’m passionate about cybersecurity and enjoy taking on challenging projects. From vulnerability management to threat detection, these projects reflect my interest in improving security operations. Feel free to check them out!
 
+## 🦾 Future Projects
+- **Setting Up Cybersecurity Homelab**
+- **CYSA+, Security+, Pentest+ Guides**
 
 ## ⚠️ Vulnerability Management Projects
 
