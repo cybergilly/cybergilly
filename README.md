@@ -5,6 +5,7 @@ I’m passionate about cybersecurity and enjoy taking on challenging projects. F
 ## 🦾 Future Projects
 - **Setting Up Cybersecurity Homelab**
 - **CYSA+, Security+, Pentest+ Guides**
+- **Setting Up _Second Brain with Capacities_**
 
 ## ⚠️ Vulnerability Management Projects
 
