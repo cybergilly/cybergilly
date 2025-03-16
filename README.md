@@ -2,19 +2,12 @@
 
 I’m passionate about cybersecurity and enjoy taking on challenging projects. From vulnerability management to threat detection, these projects reflect my interest in improving security operations. Feel free to check them out!
 
-## 🦾 Future Projects
+## 🦾 Ongoing Projects
 - **Setting Up Cybersecurity Homelab**
 - **CYSA+, Security+, Pentest+ Guides**
 - **Setting Up _Second Brain with Capacities_**
 
-## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 <hr/>
 
