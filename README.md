@@ -7,13 +7,13 @@ I’m passionate about cybersecurity and enjoy taking on challenging projects. F
 - **CYSA+, Security+, Pentest+ Guides**
 - **Setting Up _Second Brain with Capacities_**
 
-# 🚀 Western Governors University Cybersecurity & Information Assurance Portfolio  
+# 🚀 Western Governors University Cybersecurity & Information Assurance Portfolio  (Graduation June 2025 - I plan to revisit each course and develop projects)
 *A collection of real-world cybersecurity projects showcasing penetration testing, network security, threat detection, and compliance expertise.*  
 
 ---
 
 ## 🔍 Penetration Testing & Ethical Hacking  
-📌 **Project:** [Enterprise Security Penetration Test](#)  
+📌 **Project:** [Enterprise Security Penetration Test](#)  (Developing)
 - Performed **network reconnaissance, vulnerability scanning, and exploitation**.  
 - Simulated **real-world attacks on web applications & enterprise networks**.  
 - Delivered a **detailed penetration testing report** with **risk analysis & remediation**.  
