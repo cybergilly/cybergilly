@@ -6,7 +6,7 @@ I’m passionate about cybersecurity and enjoy taking on challenging projects. F
 - **Setting Up Cybersecurity Homelab**
 - **CYSA+, Security+, Pentest+ Guides**
 - **Setting Up _Second Brain with Capacities_**
-- ** The Overwatch Protocol **
+- **The Overwatch Protocol**
 
 # 🚀 Western Governors University Cybersecurity & Information Assurance Portfolio  (Graduation June 2025 - I plan to revisit each course and develop projects)
 *A collection of real-world cybersecurity projects showcasing penetration testing, network security, threat detection, and compliance expertise.*  
