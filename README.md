@@ -1,83 +1,234 @@
-# <a href="https://www.linkedin.com/in/gilchrest-james/">Cybergilly</a>'s IT and Cybersecurity Project Portfolio 🔐
+# Post-Graduate Portfolio Development Plan - Cybersecurity Projects
 
-I’m passionate about cybersecurity and enjoy taking on challenging projects. From vulnerability management to threat detection, these projects reflect my interest in improving security operations. Feel free to check them out!
+## Overview
+This document outlines my planned portfolio development strategy as a graduate with a Master's in Cybersecurity & Information Assurance from WGU. By implementing these projects, I aim to demonstrate practical skills that complement my academic knowledge and appeal to potential employers.
 
-## 🦾 Ongoing Projects
-- **Setting Up Cybersecurity Homelab**
-- **CYSA+, Security+, Pentest+ Guides**
-- **Setting Up _Second Brain with Capacities_**
-- **The Overwatch Protocol**
+## Current Projects in Progress
 
-# 🚀 Western Governors University Cybersecurity & Information Assurance Portfolio  (Graduation June 2025 - I plan to revisit each course and develop projects)
-*A collection of real-world cybersecurity projects showcasing penetration testing, network security, threat detection, and compliance expertise.*  
+- **The Overwatch Protocol** - Personal development framework book (currently in draft)
+- **Cybersecurity Homelab Setup** - Creating virtualized environment for security testing
+- **Certification Preparation** - CYSA+, Security+, Pentest+ study materials
+- **Second Brain with Capacities** - Knowledge management system implementation
 
----
+## Education
 
-## 🔍 Penetration Testing & Ethical Hacking  
-📌 **Project:** [Enterprise Security Penetration Test](#)  (Developing)
-- Performed **network reconnaissance, vulnerability scanning, and exploitation**.  
-- Simulated **real-world attacks on web applications & enterprise networks**.  
-- Delivered a **detailed penetration testing report** with **risk analysis & remediation**.  
-
-🛠 **Skills:** `Kali Linux` `Nmap` `Metasploit` `Burp Suite` `OWASP Testing` `Exploit Development`  
+**Western Governors University**  
+*Master's in Cybersecurity & Information Assurance*  
+Graduated: May 2025
 
 ---
 
-## 🌐 Secure Network Architecture & Design  
-📌 **Project:** [Enterprise-Grade Secure Network Design](#)  
-- Designed a **secure, scalable network topology** with **firewalls, VLANs, IDS/IPS, and VPNs**.  
-- Conducted **network segmentation** to improve security & reduce attack surfaces.  
-- Implemented **Zero Trust security policies** for enhanced access control.  
+## Planned Coding Projects by Language
 
-🛠 **Skills:** `Cisco Packet Tracer` `GNS3` `Firewall Configuration` `Network Segmentation` `Zero Trust Security`  
+### Python Projects
 
----
+#### 1. Network Traffic Analyzer
+*A tool to capture and analyze network packets for suspicious patterns*
 
-## 🛡️ Security Operations & Threat Detection  
-📌 **Project:** [SIEM-Based Threat Monitoring & Log Analysis](#)  
-- Deployed **SIEM tools (Splunk/ELK)** to detect & respond to cyber threats in real-time.  
-- Investigated **brute-force attacks, unauthorized access, and malware activity**.  
-- Created **incident response playbooks** to enhance SOC capabilities.  
+**Implementation Plan:**
+- Use Scapy library for packet capture and dissection
+- Implement machine learning algorithms to detect anomalous traffic
+- Build dashboard for real-time traffic visualization
+- Create reporting system with threat intelligence integration
 
-🛠 **Skills:** `SIEM` `Log Analysis` `Incident Response` `Threat Intelligence` `MITRE ATT&CK`  
+**Technologies:** `Python` `Scapy` `Pandas` `Scikit-learn` `Flask` `Matplotlib`
 
----
-
-## 📜 Governance, Risk, and Compliance (GRC)  
-📌 **Project:** [Compliance Audit & Risk Assessment](#)  
-- Evaluated **security policies and controls** against **NIST 800-53, PCI-DSS** compliance standards.  
-- Conducted a **risk assessment** and proposed a **remediation plan** for compliance gaps.  
-- Developed an **audit-ready compliance report** aligning security with business objectives.  
-
-🛠 **Skills:** `NIST 800-53` `PCI-DSS` `Risk Assessment` `Security Policy Development` `Compliance Auditing`  
+**Project Timeline:** Q1 2026
 
 ---
 
-## 🕵️‍♂️ Digital Forensics & Incident Response (DFIR)  
-📌 **Project:** [Cybersecurity Incident Investigation & Forensics Report](#)  
-- Performed **memory and disk forensics** to analyze cyber incidents.  
-- Investigated **malware behavior, network logs, and system artifacts**.  
-- Documented findings in a **forensic investigation report** following **chain-of-custody protocols**.  
+#### 2. Automated Vulnerability Scanner
+*Modular vulnerability scanning tool with customizable security checks*
 
-🛠 **Skills:** `Volatility` `Autopsy` `Network Forensics` `Malware Analysis` `Chain of Custody`  
+**Implementation Plan:**
+- Build port scanning and service enumeration modules
+- Integrate with vulnerability databases (CVE, NVD)
+- Create plugin system for extensibility
+- Develop severity rating system and remediation recommendation engine
 
----
+**Technologies:** `Python` `Requests` `Beautiful Soup` `SQLite` `CVSS Scoring`
 
-## ☁️ Cloud Security & Identity Access Management (IAM)  
-📌 **Project:** [Cloud Security Hardening & IAM Configuration](#)  
-- Designed **secure IAM policies** with **MFA and least privilege access** in AWS/Azure.  
-- Configured **security best practices** for cloud environments to prevent breaches.  
-- Conducted **vulnerability assessments** for misconfigured cloud resources.  
-
-🛠 **Skills:** `AWS Security` `Azure Security` `IAM` `MFA` `Role-Based Access Control (RBAC)`  
+**Project Timeline:** Q2 2026
 
 ---
 
+#### 3. Security Log Parser and Analyzer
+*Log analysis tool for threat hunting and incident response*
 
+**Implementation Plan:**
+- Create parsers for multiple log sources (firewall, IDS, web servers)
+- Implement pattern matching to identify indicators of compromise
+- Develop timeline analysis features
+- Build alerting system for real-time detection
 
-<hr/>
+**Technologies:** `Python` `Regular Expressions` `Pandas` `Elasticsearch`
 
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+**Project Timeline:** Q3 2026
+
+---
+
+### PowerShell Projects
+
+#### 1. Active Directory Security Auditor
+*Tool for comprehensive AD security assessment*
+
+**Implementation Plan:**
+- Create modules for privilege escalation checks
+- Build password policy and account lockout auditing
+- Implement dormant account detection
+- Design compliance reporting system
+
+**Technologies:** `PowerShell` `Active Directory Module` `Windows Server`
+
+**Project Timeline:** Q1 2026
+
+---
+
+#### 2. Windows Event Log Monitor
+*Real-time security monitoring for Windows environments*
+
+**Implementation Plan:**
+- Develop event collection from critical security logs
+- Create custom detection rules for attack techniques
+- Implement centralized logging capability
+- Build automated response actions for specific events
+
+**Technologies:** `PowerShell` `WMI` `Windows Event Forwarding` `SMTP Integration`
+
+**Project Timeline:** Q4 2024
+
+---
+
+#### 3. Endpoint Compliance Checker
+*Tool to verify security configurations on Windows endpoints*
+
+**Implementation Plan:**
+- Create modules to check against CIS benchmarks
+- Build patch validation and software inventory features
+- Develop remediation scripts for compliance issues
+- Implement before/after reporting
+
+**Technologies:** `PowerShell` `DSC` `Registry Analysis` `WMI`
+
+**Project Timeline:** Q1 2025
+
+---
+
+### Bash Projects
+
+#### 1. Linux Security Hardening Framework
+*Automated security hardening for Linux systems*
+
+**Implementation Plan:**
+- Implement CIS and DISA STIG benchmark checks
+- Create configurable security profiles
+- Build service management and configuration modules
+- Develop backup and rollback capabilities
+
+**Technologies:** `Bash` `Linux Administration` `PAM` `IPTables/NFTables`
+
+**Project Timeline:** Q3 2024
+
+---
+
+#### 2. Network Security Monitoring Suite
+*NSM solution for Linux environments*
+
+**Implementation Plan:**
+- Create deployment scripts for security tools
+- Develop configuration management system
+- Build custom dashboards
+- Implement threat intelligence integration
+
+**Technologies:** `Bash` `Docker` `Suricata` `Zeek` `ELK Stack`
+
+**Project Timeline:** Q4 2024
+
+---
+
+#### 3. Automated Incident Response Toolkit
+*Collection of scripts for Linux incident response*
+
+**Implementation Plan:**
+- Develop system triage automation
+- Create volatile data collection tools
+- Build timeline analysis features
+- Implement containment procedures
+
+**Technologies:** `Bash` `Forensics Tools` `Memory Analysis` `Log Analysis`
+
+**Project Timeline:** Q1 2025
+
+---
+
+## Larger-Scale Integration Projects
+
+### Home Security Operations Center
+*Implementation of SOC capabilities in home lab environment*
+
+**Implementation Plan:**
+- Deploy Security Onion as monitoring platform
+- Configure network sensors and log collectors
+- Create custom detection rules
+- Develop incident response playbooks
+- Build automated alerting system
+
+**Technologies:** `Security Onion` `Suricata` `Zeek` `ELK Stack` `Sigma Rules`
+
+**Project Timeline:** Q4 2026
+
+---
+
+### Web Application Security Framework
+*Security testing environment for web applications*
+
+**Implementation Plan:**
+- Set up continuous security testing pipeline
+- Deploy static and dynamic analysis tools
+- Create secure coding guidelines
+- Build secure application templates
+- Implement web application firewall
+
+**Technologies:** `OWASP ZAP` `Docker` `ModSecurity` `GitLab CI/CD`
+
+**Project Timeline:** Q2 2025
+
+---
+
+### Cloud Security Architecture
+*Secure cloud environment design*
+
+**Implementation Plan:**
+- Design multi-account architecture
+- Implement infrastructure-as-code with security controls
+- Create compliance automation
+- Deploy centralized logging
+- Establish secure CI/CD pipelines
+
+**Technologies:** `AWS` `Terraform` `CloudTrail` `CloudWatch` `Config Rules`
+
+**Project Timeline:** Q2 2025
+
+---
+
+## Documentation Strategy
+
+For each project, I will create:
+
+1. **GitHub Repository** - With clear documentation and code
+2. **Project Writeup** - Explaining my approach and implementation details
+3. **Demo Videos** - Showing the tools in action
+4. **Technical Blog Posts** - Sharing insights and lessons learned
+
+## Success Metrics
+
+Each project will be evaluated based on:
+
+- Functionality (does it work as intended?)
+- Code quality (is it well-structured and documented?)
+- Security effectiveness (does it actually improve security?)
+- Employer relevance (does it demonstrate valuable skills?)
+
+---
+
+*This plan outlines my strategy for developing a comprehensive cybersecurity portfolio.*
