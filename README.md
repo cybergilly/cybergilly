@@ -33,7 +33,7 @@ Graduated: May 2025
 
 **Technologies:** `Python` `Scapy` `Pandas` `Scikit-learn` `Flask` `Matplotlib`
 
-**Project Timeline:** Q1 2026
+**Project Timeline:** 2026
 
 ---
 
@@ -48,7 +48,7 @@ Graduated: May 2025
 
 **Technologies:** `Python` `Requests` `Beautiful Soup` `SQLite` `CVSS Scoring`
 
-**Project Timeline:** Q2 2026
+**Project Timeline:** 2026
 
 ---
 
@@ -63,7 +63,7 @@ Graduated: May 2025
 
 **Technologies:** `Python` `Regular Expressions` `Pandas` `Elasticsearch`
 
-**Project Timeline:** Q3 2026
+**Project Timeline:** 2026
 
 ---
 
@@ -80,7 +80,7 @@ Graduated: May 2025
 
 **Technologies:** `PowerShell` `Active Directory Module` `Windows Server`
 
-**Project Timeline:** Q1 2026
+**Project Timeline:** 2026
 
 ---
 
@@ -95,7 +95,7 @@ Graduated: May 2025
 
 **Technologies:** `PowerShell` `WMI` `Windows Event Forwarding` `SMTP Integration`
 
-**Project Timeline:** Q4 2024
+**Project Timeline:** 2027
 
 ---
 
@@ -110,7 +110,7 @@ Graduated: May 2025
 
 **Technologies:** `PowerShell` `DSC` `Registry Analysis` `WMI`
 
-**Project Timeline:** Q1 2025
+**Project Timeline:** 2027
 
 ---
 
@@ -127,7 +127,7 @@ Graduated: May 2025
 
 **Technologies:** `Bash` `Linux Administration` `PAM` `IPTables/NFTables`
 
-**Project Timeline:** Q3 2024
+**Project Timeline:** 2027
 
 ---
 
@@ -142,7 +142,7 @@ Graduated: May 2025
 
 **Technologies:** `Bash` `Docker` `Suricata` `Zeek` `ELK Stack`
 
-**Project Timeline:** Q4 2024
+**Project Timeline:** 2027
 
 ---
 
@@ -157,7 +157,7 @@ Graduated: May 2025
 
 **Technologies:** `Bash` `Forensics Tools` `Memory Analysis` `Log Analysis`
 
-**Project Timeline:** Q1 2025
+**Project Timeline:** 2027
 
 ---
 
@@ -175,7 +175,7 @@ Graduated: May 2025
 
 **Technologies:** `Security Onion` `Suricata` `Zeek` `ELK Stack` `Sigma Rules`
 
-**Project Timeline:** Q4 2026
+**Project Timeline:** 2027
 
 ---
 
@@ -207,7 +207,7 @@ Graduated: May 2025
 
 **Technologies:** `AWS` `Terraform` `CloudTrail` `CloudWatch` `Config Rules`
 
-**Project Timeline:** Q2 2025
+**Project Timeline:** 2027
 
 ---
 
