@@ -191,7 +191,7 @@ Graduated: May 2025
 
 **Technologies:** `OWASP ZAP` `Docker` `ModSecurity` `GitLab CI/CD`
 
-**Project Timeline:** Q2 2025
+**Project Timeline:**  2027
 
 ---
 
