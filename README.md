@@ -31,7 +31,7 @@ Graduated: May 2025
 
 **Technologies:** `Security Onion` `Suricata` `Zeek` `ELK Stack` `Sigma Rules`
 
-**Project Timeline:** 2027
+**Project Timeline:** 2026
 
 ---
 
@@ -47,7 +47,6 @@ Graduated: May 2025
 
 **Technologies:** `AWS` `Terraform` `CloudTrail` `CloudWatch` `Config Rules`
 
-**Project Timeline:** 2027
----
+**Project Timeline:** 2026
 
 *This plan outlines my strategy for developing a comprehensive cybersecurity portfolio.*
