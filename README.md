@@ -6,6 +6,7 @@ This document outlines my planned portfolio development strategy as a graduate w
 ## Current Projects in Progress
 
 - **KQL Query Generator** - Command-line tool for generating KQL queries from natural language prompts (✅ Completed)
+- **Azure GRC Engineering for NIST 800-171** - Compliance automation tool for NIST 800-171 controls (🚀 In Progress)
 - **The Overwatch Protocol** - Personal development framework book (currently in draft)
 - **Cybersecurity Homelab Setup** - Creating virtualized environment for security testing
 - **Certification Preparation** - CYSA+, Security+, Pentest+ study materials
@@ -57,6 +58,45 @@ SigninLogs
 ```
 
 **Documentation:** See [KQL_GENERATOR_README.md](KQL_GENERATOR_README.md) for detailed usage instructions.
+
+---
+
+## Featured Project: Azure GRC Engineering for NIST 800-171
+
+### Overview
+*Automated compliance assessment and monitoring tool for NIST SP 800-171 controls*
+
+**Description:** A Python-based compliance automation tool designed for cybersecurity professionals managing NIST 800-171 compliance in Azure environments. This tool helps organizations assess, monitor, and maintain compliance with the 110 security requirements outlined in NIST SP 800-171, specifically focused on protecting Controlled Unclassified Information (CUI) in nonfederal systems.
+
+**Key Features:**
+- Automated assessment of NIST 800-171 security controls
+- Azure-specific compliance checks and recommendations
+- Gap analysis and remediation guidance
+- Compliance reporting and documentation generation
+- Integration with Azure Security Center and Azure Policy
+- Control mapping to Azure native security services
+
+**Technologies:** `Python 3` `Azure SDK` `NIST 800-171` `Compliance Automation` `Azure Policy`
+
+**Usage Examples:**
+```bash
+# Run full NIST 800-171 compliance assessment
+python3 nist_800_171_grc.py --assess --output-format json
+
+# Check specific control families
+python3 nist_800_171_grc.py --control-family "Access Control" --detailed
+
+# Generate compliance report
+python3 nist_800_171_grc.py --report --format pdf
+```
+
+**Sample Control Checks:**
+- 3.1.1 Access Control: Verify user access reviews and permissions
+- 3.4.1 Configuration Management: Validate system hardening standards
+- 3.13.1 System Protection: Check malware protection implementation
+- 3.14.1 System Integrity: Monitor file integrity and change detection
+
+**Documentation:** See [NIST_800_171_GRC_README.md](NIST_800_171_GRC_README.md) for detailed implementation guide.
 
 ---
 ## Larger-Scale Integration Projects
