@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm James!
+# 👋 Hi there, I'm Gilly!
 
-## 🛡️ Cybersecurity Analyst (Learning in Public)
+## 🛡️ Cybersecurity Analyst
 
 I'm focused on improving my Python skillset and building practical GRC engineering projects. I learn by shipping small, useful tools and documenting what works (and what doesn't).
 
