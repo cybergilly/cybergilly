@@ -1,6 +1,6 @@
 # Hi, I’m Gilly 👋
 
-I’m a security professional focused on **Python-driven GRC engineering**—building practical tools that make governance, risk, and compliance work more efficient, repeatable, and measurable.
+I’m a security professional focused on **GRC engineering**—building practical tools that make governance, risk, and compliance work more efficient, repeatable, and measurable.
 
 I learn by shipping small, useful projects and documenting outcomes, tradeoffs, and lessons learned.
 
